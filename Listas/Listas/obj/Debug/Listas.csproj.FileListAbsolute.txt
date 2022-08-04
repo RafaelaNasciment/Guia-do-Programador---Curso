@@ -1,0 +1,8 @@
+D:\Guia do Programador\Listas\Listas\bin\Debug\Listas.exe.config
+D:\Guia do Programador\Listas\Listas\bin\Debug\Listas.exe
+D:\Guia do Programador\Listas\Listas\bin\Debug\Listas.pdb
+D:\Guia do Programador\Listas\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+D:\Guia do Programador\Listas\Listas\obj\Debug\Listas.csproj.SuggestedBindingRedirects.cache
+D:\Guia do Programador\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+D:\Guia do Programador\Listas\Listas\obj\Debug\Listas.exe
+D:\Guia do Programador\Listas\Listas\obj\Debug\Listas.pdb
