@@ -5,6 +5,12 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulacaoDeArquivos", "ManipulacaoDeArquivos\ManipulacaoDeArquivos.csproj", "{B8D7CFAA-A503-4ED7-93D9-56411939663A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Listas", "Listas", "{F5044301-FFEB-4ECE-8D89-42317B9171DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{64C90A08-72CF-4DF8-9A74-1BCEF4FEBE16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ManipulaçãoDeArquivos", "ManipulaçãoDeArquivos", "{DDB54938-FD8B-4F22-84A7-AB5EA4EE1D7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +21,17 @@ Global
 		{B8D7CFAA-A503-4ED7-93D9-56411939663A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8D7CFAA-A503-4ED7-93D9-56411939663A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8D7CFAA-A503-4ED7-93D9-56411939663A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C90A08-72CF-4DF8-9A74-1BCEF4FEBE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C90A08-72CF-4DF8-9A74-1BCEF4FEBE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C90A08-72CF-4DF8-9A74-1BCEF4FEBE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C90A08-72CF-4DF8-9A74-1BCEF4FEBE16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B8D7CFAA-A503-4ED7-93D9-56411939663A} = {DDB54938-FD8B-4F22-84A7-AB5EA4EE1D7E}
+		{64C90A08-72CF-4DF8-9A74-1BCEF4FEBE16} = {F5044301-FFEB-4ECE-8D89-42317B9171DF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F77DAA7B-2B1C-44B0-B3A5-E62B51D51828}
